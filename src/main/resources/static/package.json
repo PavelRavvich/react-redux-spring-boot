@@ -1,0 +1,32 @@
+{
+  "name": "react-spring",
+  "version": "1.0.0",
+  "description": "This is sample of freanding react and spring boot",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-transform-regenerator": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "webpack": "^3.6.0",
+    "webpack-dev-server": "^2.8.2"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "presets": [
+    "latest"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "react-spring-boot-sample"
+  },
+  "keywords": [
+    "1"
+  ],
+  "author": "Pavel_Ravvich",
+  "license": "UNLICENSED"
+}
