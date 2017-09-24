@@ -1,0 +1,23 @@
+*.iml
+*.class
+*.DS_Store
+.idea
+targetText
+com
+target
+*/target
+*/*/target
+src/main/resources/static/npm-debug.log
+src/main/resources/static/node_modules/
+out
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
