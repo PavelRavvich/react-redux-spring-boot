@@ -5,9 +5,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 /**
  * Author : Pavel Ravvich.
- * Created : 24.09.17.
- * <p>
- * BaseController
  */
 @Controller
 public class BaseController {
@@ -15,5 +12,4 @@ public class BaseController {
     public String getIndex() {
         return "index";
     }
-
 }
